@@ -14,9 +14,13 @@ $ sudo apt install gnome-screenshot
 $ sudo apt-get install xclip
 ```
 
+ESC : Close app
+Drag and drop : Take an screenshot
+
+
 **also**
 ```bash
-$ pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 
