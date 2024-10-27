@@ -14,6 +14,11 @@ $ sudo apt install gnome-screenshot
 $ sudo apt-get install xclip
 ```
 
+**also**
+```bash
+$ pip install -r requirements.txt
+```
+
 
 **computers that I interact with:**
 - School computers (when I help my friends with their projects)
